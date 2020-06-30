@@ -1,0 +1,6 @@
+## Interface: 80300
+## Author: xyzsz
+## Title: FilterA
+## Version: 0.1
+## Notes: A Filter AddOn
+FilterA.xml
